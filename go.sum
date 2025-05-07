@@ -1,0 +1,6 @@
+github.com/Sudo-Ivan/jacked-api v1.2.0 h1:YzTreFQ8T25zLcTUgrk0kcWRwJDt0BWyA8IebRDHQkA=
+github.com/Sudo-Ivan/jacked-api v1.2.0/go.mod h1:+uP3/Jb+/6vU9nhCyueutq7tWb165GH9ULyjiZBVkqs=
+github.com/goccy/go-json v0.10.5 h1:Fq85nIqj+gXn/S5ahsiTlK3TmC85qgirsdTP/+DeaC4=
+github.com/goccy/go-json v0.10.5/go.mod h1:oq7eo15ShAhp70Anwd5lgX2pLfOS3QCiwU/PULtXL6M=
+github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
+github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=

@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+#alerts h2 {
+    margin-top: 0;
+}
+
+#alert-list li {
+    padding: 5px 0;
+    border-bottom: 1px dashed #eee;
+}
+
+#alert-list li:last-child {
+    border-bottom: none;
+} 
